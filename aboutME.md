@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lata19 (Nikola)
 - 👀 I’m interested in programming, transport, electric vehicles
-- 🌱 I’m currently learning Python and Full Stack Development (HTML, CSS, JS, Python)
+- 🌱 I’m currently learning Python
 - 📫 Reach me via my email: nikolalatincic19@gmail.com
 
 <!---
