@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lata19
-- 👀 I’m interested in Computer Science, Programming, Python and much more... 
+- 👀 I’m interested in Coding... 
 - 🌱 I’m currently learning Web Development
 - 📫 You can contact me by e-mail: nikolalatincic19@gmail.com
 
