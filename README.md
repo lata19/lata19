@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lata19
-- 👀 I’m interested in Coding... 
-- 🌱 I’m currently learning Web Development
+- 👀 I’m Frontend Web Developer in the making...
+- 💻 I’m currently learning JavaScript
 - 📫 You can contact me by e-mail: nikolalatincic19@gmail.com
 
 <!---
